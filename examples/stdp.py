@@ -7,8 +7,8 @@ Adapted from Song, Miller and Abbott (2000) and Song and Abbott (2001)
 ## PARAMETERS
 
 # select code generation standalone device
-devicename = 'cuda_standalone'
-# devicename = 'cpp_standalone'
+#devicename = 'cuda_standalone'
+devicename = 'cpp_standalone'
 
 # random seed for reproducible simulations
 seed = None

@@ -19,8 +19,8 @@ Clock-driven implementation with exact subthreshold integration
 ## PARAMETERS
 
 # select code generation standalone device
-devicename = 'cuda_standalone'
-# devicename = 'cpp_standalone'
+#devicename = 'cuda_standalone'
+devicename = 'cpp_standalone'
 
 # random seed for reproducible simulations
 seed = None

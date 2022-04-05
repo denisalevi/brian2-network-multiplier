@@ -20,8 +20,8 @@ R. Brette - Dec 2007
 ## PARAMETERS
 
 # select code generation standalone device
-devicename = 'cuda_standalone'
-#devicename = 'cpp_standalone'
+#devicename = 'cuda_standalone'
+devicename = 'cpp_standalone'
 
 # random seed for reproducible simulations
 seed = None
